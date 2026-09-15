@@ -1,0 +1,1 @@
+Seed scripts belong here. Keep production data out of the frontend and load development fixtures through authenticated API seed commands.
